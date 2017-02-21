@@ -1,0 +1,2 @@
+call ndk-build
+copy /y F:\libsource\opencv\opencv_contrib-master\modules\face\libs\arm64-v8a\libFaceRecognizer.so F:\Project\AndroidStudioProjects\PersonalIndentificationUI\app\src\main\jniLibs\arm64-v8a\
